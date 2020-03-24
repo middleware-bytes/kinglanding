@@ -7,3 +7,5 @@ KARSTARK
 TARGARYEN
 DORNE 
 ARYNN
+Blackfyre
+Casterly
